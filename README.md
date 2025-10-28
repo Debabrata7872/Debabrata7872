@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=debabrata7872&label=Profile%20views&color=0e75b6&style=flat" alt="debabrata7872" /> </p>
 
-- 🔭 I’m currently working on **Hospital Management System**
+- 🔭 I’m currently working on **My Portfolio**
 
 - 👨‍💻 All of my projects are available at [https://linktr.ee/Debabrata_](https://linktr.ee/Debabrata_)
 
