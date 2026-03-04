@@ -12,7 +12,7 @@
 - 🔭 I’m currently working on **CBX India**
 - 🚀 All of my projects are available at [My Linktree](https://linktr.ee/Debabrata_)
 - 📫 How to reach me: **[debabratasahoo499905@gmail.com](mailto:debabratasahoo499905@gmail.com)**
-- ⚡ Fun fact: **I am Funny!**
+- ⚡ Fun fact: **I write serious code, but I'm a pretty funny guy!**
 
 ### 🤝 Connect with me:
 <p align="left">
