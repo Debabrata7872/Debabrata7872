@@ -73,10 +73,10 @@
 ### 📊 GitHub Stats:
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=debabrata7872&show_icons=true&locale=en&theme=radical&hide_border=true" alt="debabrata7872 stats" />
+ <img src="https://readme-stats-fast.vercel.app/api?username=debabrata7872&show_icons=true&locale=en&theme=radical&hide_border=true" alt="debabrata7872 stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=debabrata7872&theme=radical&hide_border=true" alt="debabrata7872 streak" />
 </div>
 <br>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=debabrata7872&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true" alt="top languages" />
+  <img src="https://readme-stats-fast.vercel.app/api/top-langs?username=debabrata7872&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true" alt="top languages" />
 </div>
